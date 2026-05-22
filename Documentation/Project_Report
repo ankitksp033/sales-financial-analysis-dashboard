@@ -1,0 +1,133 @@
+# Project Documentation
+
+# Sales & Financial Analysis Dashboard
+
+## Project Overview
+
+This project focuses on analyzing company sales, revenue, expenses, and profitability to evaluate overall business performance and operational efficiency. The dashboard was developed using Microsoft Excel with Pivot Tables, Pivot Charts, and Power Query for data transformation and interactive reporting.
+
+The primary objective of this project is to help business stakeholders monitor financial health, identify high-performing regions and products, and understand the relationship between sales growth and profitability.
+
+---
+
+# Business Problem
+
+Businesses often generate strong sales revenue but struggle to maintain healthy profit margins due to increasing operational costs, excessive discounts, or inefficient financial management.
+
+The company required an analytical dashboard to
+
+- Monitor overall sales and financial performance
+- Identify high-performing products and regions
+- Analyze profitability trends
+- Evaluate the impact of discounts on profit margins
+- Track operational expenses and business efficiency
+
+---
+
+# Project Objectives
+
+- Analyze company-wide sales and financial performance
+- Track revenue, expenses, and profit trends
+- Identify profitable and low-performing business segments
+- Measure financial efficiency using KPIs
+- Provide actionable business insights for decision-making
+
+---
+
+# Dataset Information
+
+The dataset contains transactional financial and sales-related data including
+
+- Sales
+- Profit
+- Discounts
+- Manufacturing Cost
+- Revenue
+- Product Segments
+- Countries
+- Units Sold
+- Monthly Sales Trends
+
+The dataset was cleaned and transformed before dashboard development.
+
+---
+
+# Data Cleaning & Preparation
+
+Data preparation was performed using Power Query and Excel functions.
+
+Key cleaning steps included
+
+- Removing unnecessary columns
+- Handling blank values
+- Correcting data types
+- Converting currency fields into numerical format
+- Creating calculated KPIs and percentage metrics
+- Creating Month Sort columns for proper chronological analysis
+
+---
+
+# Tools & Technologies Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Conditional Formatting
+- KPI Cards
+- Financial Data Analysis
+
+---
+
+# Key Performance Indicators (KPIs)
+
+The dashboard includes the following KPIs
+
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Total Expenses
+- Cost Ratio %
+- Units Sold
+- Revenue Growth Trends
+- Profitability Analysis
+
+---
+
+# Dashboard Features
+
+The dashboard contains
+
+- Revenue trend analysis
+- Country-wise sales performance
+- Product profitability analysis
+- Discount impact analysis
+- Segment performance comparison
+- Expense vs Profit comparison
+- Interactive slicers and filters
+- KPI summary cards
+
+---
+
+# Business Insights
+
+- High revenue does not always guarantee high profitability.
+- Discounts significantly impact profit margins in several business segments.
+- Certain regions and products contribute disproportionately to total profit.
+- Operational expenses consume a large portion of overall revenue.
+- Some low-volume products generate stronger margins than high-volume products.
+
+---
+
+# Recommendations
+
+- Optimize discount strategies to improve profit margins.
+- Focus on expanding high-profit business segments.
+- Improve cost management in low-efficiency regions.
+- Monitor profitability alongside revenue growth for sustainable business performance.
+
+---
+
+# Conclusion
+
+This project demonstrates how financial and sales data can be transformed into actionable business intelligence using Excel-based analytical dashboards. The dashboard helps stakeholders monitor company performance, identify operational inefficiencies, and support strategic business decision-making through data-driven insights.
